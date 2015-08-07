@@ -1,0 +1,21 @@
+<ion-view view-title="Streaming">
+
+	<div class="bar bar-subheader item-input-inset bar-light">
+		<label class="item-input-wrapper">
+			<i class="icon ion-search placeholder-icon"></i>
+			<input type="search" ng-model="query" placeholder="Search">
+		</label>
+	</div>
+
+	<ion-content class="has-subheader">
+		<ion-list ng-repeat="channel in channels | filter:query">
+			<ion-item href="#/app/tab/stream/{{channel.img}}" class="item-thumbnail-left item-text-wrap">
+				<img src="img/channels/{{channel.img}}.png" alt="{{channel.name}} logo">
+				<h2>{{channel.name}}</h2>
+				<h3>{{channel.title}}</h3>
+				<p>{{channel.description}}</p>
+			</ion-item>
+		</ion-list>
+	</ion-content>
+</ion-view>
+

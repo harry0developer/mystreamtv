@@ -1,0 +1,18 @@
+<ion-view view-title="TV Player">
+  <ion-content >
+	 <div class="list card" ng-repeat="channel in channels | filter:{img:whichChannel}">
+	  <div class="item item-avatar">
+	    <img src="img/channels/{{channel.img}}.png">
+	    <h2>TV Player</h2>
+	    <p>Online religious TV channel</p>
+	  </div>
+	  <div class="item item-image">
+	    <img src="img/player.png">
+	  </div>
+	  <a class="item item-icon-left assertive" href="#">
+	    <i class="icon ion-ios-film"></i>
+	    Start streaming
+	  </a>
+	</div>
+  </ion-content>
+</ion-view>

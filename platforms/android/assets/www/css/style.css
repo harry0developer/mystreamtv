@@ -1,0 +1,24 @@
+.splash{
+	background: url('../img/bg.jpg') no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-ms-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+}
+.branding{
+	text-align: center;
+	padding-top: 40px;
+	margin: 0 auto;
+}
+
+.branding img{
+	width:90%;
+	max-width: 300px;
+}
+.branding p{
+	color:#ccc;
+	padding-top: 20px;
+	width:80%;
+	font-size: 1.2em;
+}

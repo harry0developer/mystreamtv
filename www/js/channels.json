@@ -1,0 +1,70 @@
+{ "channels" :[ 
+  { 
+    "name":"Charis TV",
+    "img":"charis",
+    "title":"Home of Gospel TV",
+    "description":"Lorem ipsum dolor sit amet,  dignissimos similique, perspiciatis facilis excepturi repellat, dolore rem."
+  },
+  { 
+    "name":"SNW TV",
+    "img":"snw",
+    "title":"Home of Gospel TV",
+    "description":"Lorem ipsum dolor sit amet, dignissimos similique, perspiciatis facilis excepturi repellat, dolore rem."
+  },
+  { 
+    "name":"Rabboni TV",
+    "img":"rabboni",
+    "title":"Home of Gospel TV",
+    "description":"Lorem ipsum dolor sit amet,  dignissimos similique, perspiciatis facilis excepturi repellat, dolore rem."
+  },
+
+  { 
+    "name":"New Generation TV",
+    "img":"ng",
+    "title":"Home of Gospel TV",
+    "description":"Lorem ipsum dolor sit amet,  dignissimos similique, perspiciatis facilis excepturi repellat, dolore rem."
+  },
+
+  { 
+    "name":"Ami TV",
+    "img":"ami",
+    "title":"Home of Gospel TV",
+    "description":"Lorem ipsum dolor sit amet, dignissimos similique, perspiciatis facilis excepturi repellat, dolore rem."
+  },
+  { 
+    "name":"DCC TV",
+    "img":"dcc",
+    "title":"Home of Gospel TV",
+    "description":"Lorem ipsum dolor sit amet,  dignissimos similique, perspiciatis facilis excepturi repellat, dolore rem."
+  },
+  { 
+    "name":"GNF TV",
+    "img":"gnf",
+    "title":"Home of Gospel TV",
+    "description":"Lorem ipsum dolor sit amet,  dignissimos similique, perspiciatis facilis excepturi repellat, dolore rem."
+  },
+  { 
+    "name":"Breakthru TV",
+    "img":"breakthru",
+    "title":"Home of Gospel TV",
+    "description":"Lorem ipsum dolor sit amet, Live Streaming laboriosam explicabo ipsum atque,  rem."
+  },
+  { 
+    "name":"RCG TV",
+    "img":"rcg",
+    "title":"Home of Gospel TV",
+    "description":"Lorem ipsum dolor sit amet, Live Streaming laboriosam explicabo ipsum atque,  rem."
+  },
+  { 
+    "name":"ROV TV",
+    "img":"rov",
+    "title":"Home of Gospel TV",
+    "description":"Lorem ipsum dolor sit amet,  Live Streaming laboriosam explicabo ipsum atque,  rem."
+  },
+  { 
+    "name":"UBN TV",
+    "img":"ubn",
+    "title":"Home of Gospel TV",
+    "description":"Lorem ipsum dolor sit amet, Live Streaming laboriosam explicabo ipsum atque, rem."
+  }
+]}
